@@ -1,1 +1,4 @@
+import(splines,survival)
+S3method(print,cox.dynamic.ridge)
+S3method(print,cox.ridge)
 exportPattern("^[[:alpha:]]+")
